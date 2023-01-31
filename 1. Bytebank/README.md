@@ -4,11 +4,11 @@
 This is a practice exercise of Java OOP. 
 - AccountTest is the entry point for executing 
 - Account is the class that represents a bank account  
-- Client is the class that represents a account holder
- 
+- Client is the class that represents a account holder.
+------------------------------------------------------------------------
+
 This application allows create an account for a previously instantiated 
 client:
-------------------------------------------------------------------------
 
 ## Class Diagram
 
