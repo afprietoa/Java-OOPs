@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Client
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Client\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=Client(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Client\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ \r\n\ @return\ \ \ \ \ name,\ holder\ name\ \r\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ \r\n\ @param\ \ name\:\ \ \ holder\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDocument()
+comment4.text=\r\n\ \r\n\ @return\ \ \ \ \ document,\ identification\ number\r\n
+comment5.params=document
+comment5.target=void\ setDocument(java.lang.String)
+comment5.text=\r\n\ \r\n\ @param\ \ document\:\ \ \ identification\ number\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ \r\n\ @return\ client\ values\ are\ printed\ to\ the\ console\r\n
+numComments=7
