@@ -11,11 +11,13 @@ public class Account
     private double balance;
     private int number;
     private Client holder;
+    private int idx = 0;
     
     static double min = 1e9;
     static double max = 2e9;
     static double range = max - min + 1;
     
+    private static int total;
     /**
      * Constructor for objects of class Account
      */
@@ -25,6 +27,8 @@ public class Account
         this.holder = holder;
         this.number = (int) ((Math.random()*range) + min);
         this.balance = 0;
+        Account.total ++;
+        this. idx +=  Account.total;
     }
 
     /**
@@ -74,13 +78,29 @@ public class Account
     {
         return holder;
     }
+    /**
+     * 
+     * @return     account index
+     */
+    public int getIdx()
+    {
+        return idx;
+    }
+    /**
+     * 
+     * @return     account total
+     */
+    public static int getTotal()
+    {
+        return Account.total;
+    }
      /**
      * 
      * @return account values are printed to the console
      */
      @Override
     public String toString() {
-        return "Account \n" 
+        return "Account #" + this.getIdx() +"\n" 
                 + "Balance=" + this.getBalance() + "\n" 
                 +"Number=" + this.getNumber() + "\n" 
                 +"Holder=" + this.getHolder();
