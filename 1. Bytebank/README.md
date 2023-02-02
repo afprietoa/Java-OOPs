@@ -13,4 +13,4 @@ client:
 
 ## Class Diagram
 
-![ClassDiagram drawio](https://user-images.githubusercontent.com/68924563/216406373-bf3115b0-dafb-45f4-819e-bc1bf0498613.png)
+![ClassDiagram drawio](https://user-images.githubusercontent.com/68924563/216406802-ce2c1fbc-de09-4d14-a478-67d7c1d2d25b.png)
