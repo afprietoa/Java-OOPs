@@ -12,4 +12,4 @@ This application allows shcedule appointment
 
 ## Class Diagram
 
-![preworkshop](https://user-images.githubusercontent.com/68924563/217372083-e2015581-26ef-4b4e-ad94-196f93171013.png)
+![preworkshop](https://user-images.githubusercontent.com/68924563/217372262-b814f638-4e69-4bd6-9395-9a597478543c.jpg)
