@@ -6,12 +6,12 @@
  * @version (a version number or a date)
  */
 import java.util.Date;
-import java.text.SimpleDateFormat;
+
 public class Hospital
 {
     // instance variables - replace the example below with your own
     private int baseValueToPay;
-    SimpleDateFormat format = new SimpleDateFormat("dd/MM/yyyy");
+  
 
     /**
      * Constructor for objects of class hospital
