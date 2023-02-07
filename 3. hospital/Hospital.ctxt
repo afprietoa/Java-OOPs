@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hospital
+comment1.params=
+comment1.target=Hospital()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ hospital\r\n
+comment2.params=
+comment2.target=int\ getBaseValueToPay()
+comment2.text=\r\n\ \r\n\ @return\ \ \ \ \ base\ value\ to\ pay\r\n
+comment3.params=user
+comment3.target=void\ calculateBaseValueToPay(User)
+comment3.text=\r\n\ \r\n\ @return\ \ \ \ \ base\ value\ to\ pay\r\n
+comment4.params=speciality\ user\ date
+comment4.target=java.lang.String\ scheduleAppointment(Speciality,\ User,\ java.util.Date)
+comment4.text=\r\n\r\n\ @param\ \ speciality,\ \ medical\ speciality\ type\r\n\ @param\ \ user,\ \ patient\r\n\ @param\ \ date,\ \ appointment\ date\r\n\ @return\ \ \ \ Scheduled\ Appointment\r\n
+numComments=5

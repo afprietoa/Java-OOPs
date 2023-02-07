@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Speciality
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Speciality\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ code\ type
+comment1.target=Speciality(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Speciality\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ \r\n\ @return\ \ \ \ name\ \r\n
+comment3.params=
+comment3.target=int\ getCode()
+comment3.text=\r\n\ \r\n\ @return\ \ \ \ \ code\r\n
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment4.text=\r\n\ \r\n\ @return\ \ \ \ type\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ \r\n\ @return\ user\ values\ are\ printed\ to\ the\ console\r\n
+numComments=6
