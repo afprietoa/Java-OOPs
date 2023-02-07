@@ -8,10 +8,10 @@
 public abstract class User
 {
     // instance variables - replace the example below with your own
-    private String name;
-    private String lastName;
-    private int documentId;
-    private String email;
+    protected String name;
+    protected String lastName;
+    protected int documentId;
+    protected String email;
 
         public User( String name, String lastName, int documentId, String email)
     {
