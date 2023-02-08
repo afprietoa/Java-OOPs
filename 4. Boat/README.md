@@ -1,4 +1,4 @@
-# Hospital
+# Boat
 
 ------------------------------------------------------------------------
 This is a practice exercise of Java OOP. 
