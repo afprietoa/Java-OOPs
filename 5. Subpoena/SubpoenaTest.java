@@ -11,14 +11,14 @@ public class SubpoenaTest
         
         Car car = new Car(60,64,80);
         Subpoena carSubpoena =  new Subpoena(car); 
-        carSubpoena.BuildTrafficCameraFine(80);
+        System.out.println(carSubpoena.BuildTrafficCameraFine(80));
         
         Truck truck = new Truck(70,71,90);
         Subpoena truckSubpoena =  new Subpoena(truck); 
-        truckSubpoena.BuildTrafficCameraFine(90);
+        System.out.println(truckSubpoena.BuildTrafficCameraFine(90));
         
         TractorTrailer tractorTrailer = new TractorTrailer(60,64,80);
         Subpoena tractorTrailerSubpoena =  new Subpoena(car); 
-        tractorTrailerSubpoena.BuildTrafficCameraFine(80);
+        System.out.println(tractorTrailerSubpoena.BuildTrafficCameraFine(80));
     }
 }

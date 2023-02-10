@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public abstract class Vehicle
+public class Vehicle
 {
     // instance variables - replace the example below with your own
     protected int lowerLimit;
