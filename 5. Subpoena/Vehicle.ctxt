@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lowerLimit\ intermediateLowerLimit\ upperLimit
+comment1.target=Vehicle(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vehicle\r\n
+comment2.params=
+comment2.target=int\ getLowerLimit()
+comment2.text=\r\n\ \r\n\ @return\ \ \ \ \ lowerLimit,\ vehicle\ lower\ limit\r\n
+comment3.params=
+comment3.target=int\ getIntermediateLowerLimit()
+comment3.text=\r\n\ \r\n\ @return\ \ \ \ \ intermediateLowerLimit,\ vehicle\ intermediate\ lower\ limit\r\n
+comment4.params=
+comment4.target=int\ getUpperLimit()
+comment4.text=\r\n\ \r\n\ @return\ \ \ \ \ upperLimit,\ vehicle\ upper\ limit\r\n
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment5.text=\r\n\ \r\n\ @return\ \ \ \ \ type,\ vehicle\ type\r\n
+numComments=6

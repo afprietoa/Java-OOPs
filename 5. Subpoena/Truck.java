@@ -8,7 +8,7 @@
 public class Truck extends Vehicle
 {
     /**
-     * Constructor for objects of class Car
+     * Constructor for objects of class Truck
      */
     public Truck(int lowerLimit, int intermediateLowerLimit, int upperLimit)
     {

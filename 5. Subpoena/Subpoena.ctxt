@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Subpoena
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Subpoena\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=vehicle
+comment1.target=Subpoena(Vehicle)
+comment2.params=velocity
+comment2.target=java.lang.String\ BuildTrafficCameraFine(int)
+comment3.params=velocity
+comment3.target=int\ calculateSubpoena(int)
+comment4.params=
+comment4.target=java.lang.String\ sendEmailOfTrafficCameraFine()
+numComments=5
