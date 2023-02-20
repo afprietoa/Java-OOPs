@@ -10,4 +10,4 @@ This application is an example of strategy pattern
 
 ## Class Diagram
 
-![image](https://user-images.githubusercontent.com/68924563/218161282-0bb4c887-dae5-4305-8076-7197add4cc51.png)
+![image](https://user-images.githubusercontent.com/68924563/220005856-5855fb76-2eee-4f52-b1c9-f1436f1a3e5e.png)
