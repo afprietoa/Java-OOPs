@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Decoration
+comment1.params=
+comment1.target=java.lang.String\ getDecoration()
+comment1.text=\r\n\ Provides\ a\ decorator\ string\ consisting\ of\ stars\ ("*").\r\n\ \r\n\ @returns\ a\ decorator\ string\ made\ up\ of\ stars\r\n
+numComments=2

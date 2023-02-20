@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RegularScreen
+comment0.text=\r\n\ Implements\ a\ low-level\ interface\ for\ printing\ to\ System.out.\r\n\ \ \r\n
+comment1.params=s
+comment1.target=void\ print(java.lang.String)
+comment1.text=\r\n\ Prints\ a\ string\ to\ System.out.\r\n\ \r\n\ @param\ s\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ string\ to\ print\r\n
+comment2.params=
+comment2.target=void\ newline()
+comment2.text=\r\n\ Prints\ a\ newline\ to\ System.out.\r\n
+numComments=3

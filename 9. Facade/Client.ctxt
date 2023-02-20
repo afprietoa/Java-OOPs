@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Client
+comment0.text=\r\n\ Implements\ the\ driver\ for\ the\ Facade\ design\ pattern\ example.\r\n\ <p>\r\n\ \r\n\ Intent\:\ <i>Provide\ a\ unified\ interface\ to\ a\ set\ of\ interfaces\ in\ a\ subsystem.\r\n\ Facade\ defines\ a\ higher-level\ interface\ that\ makes\ the\ subsystem\ easier\ to\r\n\ use.\ </i>\r\n\ <p>\r\n\ \r\n\ The\ <i>subsystem\ </i>\ consists\ of\ three\ classes\ that\ provide\ low-level\ string\r\n\ manipulation\ and\ output\ functionality\:\ <code>RegularScreen</code>,\r\n\ <code>Decoration</code>,\ and\ <code>StringTransformer</code>.\ The\r\n\ <i>Facade\ </i>\ class\ <code>OutputFacade</code>\ procides\ a\ higher-level\r\n\ interface\ to\ output\ strings.\ This\ class\ calls\ methods\ on\ that\ higer-level\r\n\ interface.\r\n\ \ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Tests\ the\ higher-level\ interface\ of\ <code>OutputFacade</code>.\r\n
+numComments=2

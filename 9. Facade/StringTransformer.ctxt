@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StringTransformer
+comment0.text=\r\n\ Implements\ basic\ string\ manipulation\ facilities.\r\n\ \ \r\n
+comment1.params=s
+comment1.target=java.lang.String\ transformToUpper(java.lang.String)
+comment1.text=\r\n\ Transforms\ a\ string\ to\ upper\ case\r\n\ \r\n\ @param\ s\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ string\ to\ transform\r\n\ @returns\ the\ transformed\ string\r\n
+comment2.params=s
+comment2.target=java.lang.String\ transformToLower(java.lang.String)
+comment2.text=\r\n\ Transforms\ a\ string\ to\ lower\ case\r\n\ \r\n\ @param\ s\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ string\ to\ transform\r\n\ @returns\ the\ transformed\ string\r\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=OutputFacade
+comment0.text=\r\n\ Implements\ the\ <i>Facade\ </i>\ role\ in\ the\ pattern\ by\ providing\ a\ higher-level\r\n\ interface\ to\ the\ operations\ provided\ by\ <code>RegularScreen</code>,\r\n\ <code>Decoration</code>,\ and\ <code>StringTransformer</code>.\r\n\ \ \r\n
+comment1.params=s
+comment1.target=void\ printNormal(java.lang.String)
+comment1.text=\r\n\ Prints\ a\ string\ using\ <code>RegularScreen</code>.\r\n\ \r\n\ @param\ s\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ string\ to\ print\r\n
+comment2.params=s
+comment2.target=void\ printFancy(java.lang.String)
+comment2.text=\r\n\ Prints\ a\ two\ versions\ of\ string\ with\ decorations\ using\r\n\ <code>RegularScreen</code>\ and\ <code>Decoration</code>.\r\n\ \r\n\ @param\ s\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ string\ to\ print\r\n
+comment3.params=
+comment3.target=void\ printDecoration()
+comment3.text=\r\n\ Prints\ a\ decorator\ string.\r\n
+numComments=4
