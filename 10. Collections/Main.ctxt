@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Main\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=array
+comment1.target=int\ maximumDifference(java.lang.Integer[])
+comment2.params=
+comment2.target=void\ validateAccess()
+comment3.params=array\ value
+comment3.target=boolean\ validateSum(java.lang.Integer[],\ int)
+comment4.params=list
+comment4.target=void\ print(java.util.ArrayList)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
