@@ -1,4 +1,5 @@
 # Ejercicios Estructura de datos.
+
 ## Máxima Diferencia de un array.
 La diferencia de un par de elementos en el array a esta definida como a[j] – a[i] donde i < j y
 a[i]< a[j]
